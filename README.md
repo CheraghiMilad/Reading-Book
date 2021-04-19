@@ -1,5 +1,5 @@
 # Reading-Book
-All of books i will reading in during life.
+All of the books I will read in during my life.
 
 **Reading-Book-List**
 
