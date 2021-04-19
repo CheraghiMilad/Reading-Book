@@ -4,11 +4,11 @@ All of books i will reading in during life.
 **Reading-Book-List**
 
 **Hi friends...**
->**This Repository exists because I decided to read more practical books by analysis.
-The problem in past is, I did not Know How to raed books by analysis.
-I found a book that name is "" How to read a Book "" that written in 1940 by Mortimer J.Adler & Charls Lincoln Van Doren,
-This book is very interesting and I decided all of Books read in befor this book Read again with the rules recommended in this book.
-Also i try to written Important rules this book in here  maybe later years I OR us need to this rules.**
+>**TThis Repository exists because I decided to read more practical books by analysis.
+> The problem in past is, I did not Know How to read books by analysis.
+>  I found a book is " How to Read a Book " that written in 1940 by Mortimer J.Adler & Charles Lincoln Van Doren,
+>   This book is very interesting and I decided all of the Books read in before this book Read again with the rules recommended in this book.
+>    Also, I try to written Important rules in this book. maybe later years I OR we need to this rules.**
 
 
 **Workflow :**
