@@ -1,2 +1,17 @@
 # Reading-Book
 All of books i will reading in during life.
+
+**Reading-Book-List**
+
+**Hi friends...**
+>**This Repository exists because I decided to read more practical books by analysis.
+The problem in past is, I did not Know How to raed books by analysis.
+I found a book that name is "" How to read a Book "" that written in 1940 by Mortimer J.Adler & Charls Lincoln Van Doren,
+This book is very interesting and I decided all of Books read in befor this book Read again with the rules recommended in this book.
+Also i try to written Important rules this book in here  maybe later years I OR us need to this rules.**
+
+
+**Workflow :**
+>    - The Issuse tab keeps a list of books I should read. If you think I should read a book,open in issue for it and I will read it(probably).
+>    - When Im reading a book, it'll be assigned to me [here's the list of books I'm currently reading](https://github.com/DeveloperMilad/Reading-Book-List/issues)
+>    - When I've read a book, I'll close the issue [here's the list of books I've read (since 2018 when I opened this repo)]()
