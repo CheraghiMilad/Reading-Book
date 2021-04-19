@@ -13,6 +13,8 @@ Also i try to written Important rules this book in here  maybe later years I OR 
 
 **Workflow :**
 >    - The Issuse tab keeps a list of books I should read. If you think I should read a book,open in issue for it and I will read it(probably).
+>    - I have read several books to date (All of this books persian language.),but I try reading practical books in english language.
+>    - **I like have a list of my read books in during life.** 
 >    - When Im reading a book, it'll be assigned to me [here's the list of books I'm currently reading]()
 >    - When I've read a book, I'll close the issue [here's the list of books I've read (since 2018 when I opened this repo)]()
 >    - I might even comment on an issue with notes about a book.
