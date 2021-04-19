@@ -17,4 +17,4 @@ Also i try to written Important rules this book in here  maybe later years I OR 
 >    - When I've read a book, I'll close the issue [here's the list of books I've read (since 2018 when I opened this repo)]()
 >    - I might even comment on an issue with notes about a book.
 >    - If you have questions about a book I've read, or am reading, or want to tell me something cool about a book I'm about to read, feel free to comment on it! 
->    - [If you like to see boards of things,](check out the Reading board which shows books as little cards moving along the columns to be read)
+>    - If you like to see boards of things,[check out the Reading board which shows books as little cards moving along the columns to be read.]()
