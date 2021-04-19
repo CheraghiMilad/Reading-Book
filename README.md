@@ -21,5 +21,5 @@ Also i try to written Important rules this book in here  maybe later years I OR 
 >    - If you have questions about a book I've read, or am reading, or want to tell me something cool about a book I'm about to read, feel free to comment on it! 
 >    - If you like to see boards of things,[check out the Reading board which shows books as little cards moving along the columns to be read.]()
 
-**How do read a book recommended rules**
+**How to read a book recommended rules**
 >1.soon...
