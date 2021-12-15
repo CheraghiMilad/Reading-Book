@@ -26,7 +26,7 @@ All of the books that i readed during life.
 
 
 
-### Note: :+1: means recommendation, :star2: strongly recommend, :x: indicates a bad review ##
+### Note: :+1: means recommendation, :star2: strongly recommend, :x: Wasting life ##
 
 #  Popular sciences
 >   :heavy_check_mark: Deep Work ( Cal Newport ) :+1:  
