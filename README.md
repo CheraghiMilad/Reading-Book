@@ -30,4 +30,8 @@ All of the books that i readed during life.
 
 ### ✏️ Popular sciences
 
-### ✏️ Popular sciences
+### ✏️ Self development
+
+### ✏️ History
+
+### ✏️ Biography
