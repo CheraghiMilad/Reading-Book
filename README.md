@@ -26,6 +26,6 @@ All of the books that i readed during life.
 
 
 
-** Note: :+1: means recommendation, :+1: :+1: strongly recommend, :x: indicates a bad review **
+## Note: :+1: means recommendation, :+1: :+1: strongly recommend, :x: indicates a bad review ##
 
 ✏️ 
