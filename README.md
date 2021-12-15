@@ -30,12 +30,8 @@ All of the books that i readed during life.
 
 #  Popular sciences
 >   1 :heavy_check_mark: Deep Work ( Cal Newport )
-> 
-> :white_check_mark: A MAN CALLED OVE ( Novel by Fredrik Backman )
-> :white_check_mark:
-> :white_check_mark:
-> :white_check_mark:
-> :white_check_mark:
+>   2 :heavy_check_mark: A MAN CALLED OVE ( Novel by Fredrik Backman )
+>   3 :white_check_mark:
 
 #  Self development
 
