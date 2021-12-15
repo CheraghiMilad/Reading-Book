@@ -29,9 +29,9 @@ All of the books that i readed during life.
 ### Note: :+1: means recommendation, :star2: strongly recommend, :x: indicates a bad review ##
 
 #  Popular sciences
->   :heavy_check_mark: Deep Work ( Cal Newport ) :+1:
->   :heavy_check_mark: A MAN CALLED OVE ( Novel by Fredrik Backman ) :star2:
->   :white_check_mark:
+>   :heavy_check_mark: Deep Work ( Cal Newport ) :+1:  
+>   :heavy_check_mark: A MAN CALLED OVE ( Novel by Fredrik Backman ) :star2:  
+>   :white_check_mark:  
 
 #  Self development
 
