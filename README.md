@@ -30,7 +30,12 @@ All of the books that i readed during life.
 
 #  Popular sciences
 
-> :white_check_mark: 
+> :heavy_check_mark: Deep Work ( Cal Newport )
+> :white_check_mark:
+> :white_check_mark:
+> :white_check_mark:
+> :white_check_mark:
+> :white_check_mark:
 
 #  Self development
 
